@@ -16,6 +16,4 @@ https://ankush43545-hub.github.io/Calculator_ankush/
 ## 🛠️ Tech Stack
 - **HTML** – Structure  
 - **CSS** – Styling  
-- **JavaScript** – Calculator logic  
-
-## 📂 Project Structure
+- **JavaScript** – Calculator logic
