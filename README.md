@@ -14,6 +14,4 @@ https://ankush43545-hub.github.io/Calculator_ankush/
 - Fully client-side, fast and lightweight  
 
 ## 🛠️ Tech Stack
-- **HTML** – Structure  
-- **CSS** – Styling  
-- **JavaScript** – Calculator logic
+- **HTML** – Structure 
