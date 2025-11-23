@@ -4,8 +4,7 @@ A clean and responsive web-based calculator built using **HTML, CSS, and JavaScr
 This project performs basic arithmetic operations and is fully mobile-friendly.
 
 ## 🚀 Live Demo
-https://yourusername.github.io/simple-calculator  
-(Replace with your actual URL)
+https://ankush43545-hub.github.io/Calculator_ankush/
 
 ## 📌 Features
 - Basic arithmetic: addition, subtraction, multiplication, division  
